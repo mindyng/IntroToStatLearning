@@ -1,2 +1,2 @@
 # IntroToStatLearning
-This is repo contains ISLR exercises in Python code
+Contains ISLR exercises in Python code

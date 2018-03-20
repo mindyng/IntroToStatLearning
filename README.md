@@ -1,2 +1,2 @@
 # IntroToStatLearning
-Contains ISLR exercises in Python code
+ISLR exercises in Python code

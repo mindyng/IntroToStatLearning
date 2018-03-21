@@ -2,4 +2,4 @@
 
 Introduction to Statistical Learning is the go-to book for those breaking into Data Science and need to learn basic Statistics to understand Machine Learning
 
-All exercises are in Python code
+All exercises are in Python code :smile: instead of R
